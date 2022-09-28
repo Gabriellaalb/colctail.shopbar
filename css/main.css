@@ -1,5 +1,5 @@
 body {
-  background-color: #fde5cd;
+  background-color: #fec807;
   margin: 0px;
   text-align: center;
   height: 100%;
@@ -68,7 +68,7 @@ body {
   border-left-width: 0px;
   border-right-width: 0px;
   box-sizing: border-box;
-  border-color: #fec807;
+  border-color: #f27405;
   border-style: solid;
   background-color: #fec807;
 }
