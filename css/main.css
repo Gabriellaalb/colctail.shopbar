@@ -1,0 +1,137 @@
+body {
+  background-color: #fde5cd;
+  margin: 0px;
+  text-align: center;
+  height: 100%;
+}
+.logo {
+  width: 100%;
+  background-color: #038C33;
+  height: 200px;
+}
+.logo img {
+  width: 60%;
+  height: 200px;
+}
+.header {
+  position: relative;
+  background-color: #fec807;
+  text-align: center;
+  width: 100%;
+  height: 150px;
+}
+.redirect-button {
+  position: relative;
+  top: 40%;
+  font-size: 20px;
+  box-shadow: 0 5px 0 0 #fffcf4 ;
+}
+.redirect-button a{
+  color: #fffcf4 ;
+  text-decoration: none;
+}
+.change-page-button {
+  position: relative;
+  top: 40%;
+  font-size: 20px;
+  box-shadow: 0 5px 0 0 #fffcf4;
+}
+.change-page-button a{
+  color: #fffcf4;
+  text-decoration: none;
+}
+.header button {
+  position: absolute;
+  left: 45%;
+  top: 50%;
+}
+.banner {
+  width: 100%;
+  height: 408px;
+  box-sizing: border-box;
+  border-color: #fec807;
+  border-style: solid;
+  border-bottom-width: 5px;
+  border-left-width: 5px;
+  border-right-width: 5px;
+}
+.banner img {
+  width: 100%;
+  height: 400px;
+}
+.rodape {
+  width: 100%;
+  height: auto;
+  padding: 20px 0px 20px 0px;
+  border-top-width: 5px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  box-sizing: border-box;
+  border-color: #fec807;
+  border-style: solid;
+  background-color: #fde5cd;
+}
+.card-rodape {
+  width: 20%;
+  height: auto;
+  display: inline-table;
+  margin: 10px;
+  color: #FFF;
+  text-align: left;
+}
+.card-rodape h3 {
+  border-bottom: 1px solid #FFF;
+}
+.drinks {
+  height: 650px;
+}
+.drink-list {
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+}
+.drink-list-card {
+  background-color: white;
+  margin: 10px;
+  width: 400px;
+  height: 500px;
+  border-radius: 25px;
+  padding: 20px;
+}
+.card-image img{
+  width: 400px;
+  height: 350px;
+}
+.card-text {
+  text-align: left;
+  font-size: 20px;
+  background-color: #D6D1CD;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  height: 140px;
+  overflow-y: auto;
+}
+.form-div {
+  border-radius: 25px;
+  position: absolute;
+  padding: 60px;
+  top: 23%;
+  right: 28%;
+  background-color: white;
+  height: 700px;
+  width: 700px;
+}
+.contact-form {
+  margin-top: 50px;
+  text-align: center;
+}
+.contact-form input {
+  width: 100%;
+  height: 40px;
+  margin-bottom: 100px;
+  border-radius: 5px;
+}
